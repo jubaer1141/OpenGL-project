@@ -28,14 +28,16 @@ It represents a festive **Eid ul Fitr celebration scene** with animated graphica
 3. Compile and run `src/main.cpp`
 
 ## Output
-![Chad Rat](screenshots/Night.jpg)
+## 📸 Screenshots
+
+### 🌙 Chad Raat
+![Night Scene](screenshots/night.jpg)
+
+### 🌅 EID Day
+![Day Scene](screenshots/Day.jpg)
 
 
 
 
 
 
-
-
-## 👨‍💻 Author
-Jubaer Hossain
