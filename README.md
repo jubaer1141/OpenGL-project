@@ -27,8 +27,13 @@ It represents a festive **Eid ul Fitr celebration scene** with animated graphica
 2. Install OpenGL (GLUT required)
 3. Compile and run `src/main.cpp`
 
-## 📸 Screenshots
-(Add screenshots here)
+## Output
+![Chad Rat](screenshots/Night.jpg)
+
+
+
+
+
 
 
 
